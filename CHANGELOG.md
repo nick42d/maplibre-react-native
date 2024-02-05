@@ -5,6 +5,7 @@ Please add unreleased changes in the following style:
 PR Title ([#123](link to my pr))
 ```
 
+chore: update dev dependencies ([#262](https://github.com/maplibre/maplibre-react-native/pull/262))
 chore: update support libraries ([#121](https://github.com/maplibre/maplibre-react-native/pull/121)).
 
 ## 10.0.0-alpha.1
